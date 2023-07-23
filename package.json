@@ -1,5 +1,6 @@
 {
-  "name": "react-native-sms-x",
+  "name": "@bopzor/react-native-sms-x",
+  "private": false,
   "version": "2.0.0",
   "description": "React native android native api to send SMS in javascript programmatically, no linking to SMS Messenger View.",
   "main": "lib/index.js",
@@ -12,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yeyintkoko/react-native-sms-x.git"
+    "url": "git+https://github.com/bopzor/react-native-sms-x.git"
   },
   "keywords": [
     "send sms in react native",
@@ -34,12 +35,12 @@
     "library",
     "programmatically"
   ],
-  "author": "Ye Yint Ko Ko",
-  "license": "ISC",
+  "author": "Ye Yint Ko Ko feat. bopzor",
+  "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/yeyintkoko/react-native-sms-x/issues"
+    "url": "https://github.com/bopzor/react-native-sms-x/issues"
   },
-  "homepage": "https://github.com/yeyintkoko/react-native-sms-x#readme",
+  "homepage": "https://github.com/bopzor/react-native-sms-x#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": ">=0.67"

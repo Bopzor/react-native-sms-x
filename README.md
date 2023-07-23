@@ -1,3 +1,5 @@
+> I fork [original package](https://github.com/yeyintkoko/react-native-sms-x) to be able to published a more up-to-date version that works with Expo 48.0.18 and react-native 0.71.0. I also add TypeScript.
+
 ## react-native-sms-x
 
 ---
